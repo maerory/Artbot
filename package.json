@@ -24,7 +24,7 @@
     "cfenv": "*",
     "cloudant": "1.6.x",
     "dotenv": "^2.0.0",
-    "express": "^4.14.0",
+    "express": "^4.17.3",
     "moment": "^2.17.1",
     "node-schedule": "^1.2.0",
     "node-telegram-bot": "^0.1.9",
